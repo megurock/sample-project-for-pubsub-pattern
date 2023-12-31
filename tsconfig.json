@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "paths": {
+      "*": ["types/*"]
+    }
+  }
+}
